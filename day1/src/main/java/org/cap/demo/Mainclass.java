@@ -10,7 +10,8 @@ public class Mainclass {
 	private static void greetings() {
 		System.out.println("welcome to git");
 		System.out.println("hello");
-		
+		System.out.println("hiiiii");
 	}
+	
 	 
 }
